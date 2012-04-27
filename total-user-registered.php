@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Total Users Registered
-Plugin URI: http://ilwebmaster21.it/
-Version: Beta 1
+Plugin URI: http://www.ilwebmaster21.it/wordpress-total-user-registered-widget/
+Version: 1.0
 Description: Show total Users Registered on Widget
 Author: Vittorio Li Mandri
 Author URI: http://ilwebmaster21.it/
