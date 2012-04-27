@@ -19,7 +19,7 @@ This plugin creates a widget showing all users Registered.
 
 == Screenshots ==
 
-* Widget
+1. Widget on Sidebar
 
 == Changelog ==
 
