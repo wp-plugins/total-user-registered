@@ -17,6 +17,12 @@ This plugin creates a widget showing all users Registered.
 
 This plugin creates a widget showing all users Registered.
 
+== Installation ==
+
+1. Upload `total-user-registered` folder to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Modify the width on the Line n°49  <div style=text-align:center;width:200px;><h2>$user_count</h2></div>
+
 == Screenshots ==
 
 1. Widget on Sidebar
