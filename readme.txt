@@ -9,12 +9,14 @@ Author URI: http://www.ilwebmaster21.it/
 Author: Vittorio Li Mandri
 Requires at least: 3.0
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.1
 Version: 1.0
+
+This plugin creates a widget showing all users Registered.
 
 == Description ==
 
-This plugin creates a widget showing all users Register
+This plugin creates a widget showing all users Registered.
 
 == Screenshots ==
 
@@ -22,10 +24,14 @@ http://www.ilwebmaster21.it/wp-content/uploads/2012/04/total-user-registered-271
 
 == Changelog ==
 
-- 1.0 New Readme File
+= 1.0 = 
+* New Screenshot 
+* New Readme
 
-- Beta 1 First Version
+= Beta 1 =
+* First public release
 
-== Upgrade Notice ==
+= Localization =
 
-- New Readme File
+* Italian
+* English
