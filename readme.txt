@@ -22,10 +22,10 @@ http://www.ilwebmaster21.it/wp-content/uploads/2012/04/total-user-registered-271
 
 == Changelog ==
 
-1.0 New Readme File
+- 1.0 New Readme File
 
-Beta 1 First Version
+- Beta 1 First Version
 
 == Upgrade Notice ==
 
-New Readme File
+- New Readme File
