@@ -10,7 +10,6 @@ Author: Vittorio Li Mandri
 Requires at least: 3.0
 Tested up to: 3.3.1
 Stable tag: 1.1
-Version: 1.0
 
 This plugin creates a widget showing all users Registered.
 
@@ -20,7 +19,7 @@ This plugin creates a widget showing all users Registered.
 
 == Screenshots ==
 
-http://www.ilwebmaster21.it/wp-content/uploads/2012/04/total-user-registered-271x300.jpg
+* Widget
 
 == Changelog ==
 
@@ -31,7 +30,7 @@ http://www.ilwebmaster21.it/wp-content/uploads/2012/04/total-user-registered-271
 = Beta 1 =
 * First public release
 
-= Localization =
+== Localization ==
 
 * Italian
 * English
