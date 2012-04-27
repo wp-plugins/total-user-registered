@@ -21,7 +21,7 @@ This plugin creates a widget showing all users Registered.
 
 1. Upload `total-user-registered` folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Modify width and Style on the Line n.49 *...style=text-align:center;width:200px;>...*
+1. Modify width and Style on the Line n.49 (...style=text-align:center;width:200px...)
 
 == Screenshots ==
 
